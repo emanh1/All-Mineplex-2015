@@ -1,8 +1,3 @@
 # All-Mineplex-2015
-Mineplex Source
 
-Plugin e Source do Mineplex 2015 - 2016</br>
-Parceria: jogar.planetacraft.com.br
-
-
-Font: https://leakforums.net/thread-652687
+Resource: http://forum.planetsweb.com.br/forum/resources/2/
